@@ -1,4 +1,6 @@
-function sayHello() {
-  console.log("a7a");
+function (){
+  return ("Hello World!") 
+  
 }
-sayHello();
+
+export default App;
