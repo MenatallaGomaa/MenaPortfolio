@@ -4,7 +4,7 @@
       "organisation": "Ironhack",
       "startDate": "Oct, 2023",
       "endDate": "Dec, 2023",
-      "experiences": ["I honed skills in frontend technologies like HTML, CSS, and JavaScript ES6", "On the backend, I mastered ExpressJS, NodeJS, and MongoDB for server-side development, using Axios for data communication.","For version control, I utilized Git and GitHub."],
+      "experiences": ["I honed skills in frontend technologies like HTML, CSS, and JavaScript ES6", "On the backend, I mastered ExpressJS, NodeJS, and MongoDB for server-side development, using Axios for data communication","For version control, I utilized Git and GitHub"],
       "imageSrc": "history/logoIronhack.png"
     },
     {

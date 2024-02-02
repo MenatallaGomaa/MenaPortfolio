@@ -20,7 +20,19 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Typescript",
+      "imageSrc": "skills/TS.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/Git.png"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "skills/Angular.png"
     }
   ]
