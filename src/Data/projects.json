@@ -1,0 +1,26 @@
+[
+    {
+      "title": "All-in-One Bazaar",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made for the user to interact with the shopping cart and for a smooth online shopping experience.",
+      "skills": ["React", "Typescript", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/MenatallaGomaa/Shopping-Cart"
+    },
+    {
+      "title": "CoTrack",
+      "imageSrc": "projects/project.png",
+      "description": "An App designed to track the family expenses and the personal expenses for each family member with full privacy.",
+      "skills": ["React", "MERN", "Javascript"],
+      "demo": "https://main--warm-pika-b55f29.netlify.app/",
+      "source": "https://github.com/Co-Track"
+    },
+    {
+      "title": "ArtTera",
+      "imageSrc": "projects/project.png",
+      "description": "An online gallery that connects civlizations together to take you in an awesome journey where the old and the new art meets.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://main--warm-pika-b55f29.netlify.app/",
+      "source": "https://github.com/ArtTera"
+    }
+  ]
