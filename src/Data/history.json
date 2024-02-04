@@ -5,7 +5,7 @@
       "startDate": "Oct, 2023",
       "endDate": "Dec, 2023",
       "experiences": ["I honed skills in frontend technologies like HTML, CSS, and JavaScript ES6", "On the backend, I mastered ExpressJS, NodeJS, and MongoDB for server-side development, using Axios for data communication","For version control, I utilized Git and GitHub"],
-      "imageSrc": "history/logoIronhack.png"
+      "imageSrc": "history/Ironhack.jpeg"
     },
     {
       "role": "Sales Support Associate",
@@ -13,6 +13,6 @@
       "startDate": "Apr, 2023",
       "endDate": "Sept, 2023",
       "experiences": ["A key aspect of my responsibilities involves utilizing ERP systems, particularly Microsoft Dynamics NAV", "I worked with ServiceNow as a platform for managing tickets"],
-      "imageSrc": "history/logoSoftwareOne.png"
+      "imageSrc": "history/SoftwareOne.jpeg"
     }
   ]
