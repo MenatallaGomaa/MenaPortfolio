@@ -22,8 +22,8 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 100;
 }
 
 .skills {
@@ -37,8 +37,8 @@
 }
 
 .skill {
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 200;
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
@@ -49,6 +49,8 @@
   margin-top: 26px;
   display: flex;
   justify-content: space-around;
+  margin-top: auto;
+  padding: 15px;
 }
 
 .link {

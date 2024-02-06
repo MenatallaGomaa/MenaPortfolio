@@ -32,7 +32,6 @@ export const About = () => {
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>What motivates me the most?</h3>
-              <br></br>
               <p>
                 {" "}
                 It's a combination of enjoying solving challenging problems and
