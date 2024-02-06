@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Menatalla Gomaa</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with with a knack for the MERN stack, honed
-          through an intensive 9-week bootcamp with Ironhack. Reach out if you'd
-          like to learn more!
+          I'm a FullStack Developer with with a knack for the MERN stack, honed
+          through an intensive 9-week bootcamp with Ironhack.{" "}
+          <p>Reach out if you'd like to learn more!</p>
         </p>
         <a href="minafathi98@gmail.com" className={styles.contactBtn}>
           Contact Me
