@@ -10,14 +10,14 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={getImageUrl("about/aboutImage.png")}
-          alt="Me sitting with a laptop"
+          alt="Girl sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <p>Hi there! 👋🏽 I go by Mena. </p>
+              <h3>Hi there! 👋🏽 I go by Mena. </h3>
               <p>
                 Currently, I'm diving into the world of web development with
                 Ironhack's awesome Bootcamp. It's more than just coding; I'm on
@@ -31,7 +31,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <p>What motivates me the most?</p>
+              <h3>What motivates me the most?</h3>
               <br></br>
               <p>
                 {" "}
