@@ -1,12 +1,5 @@
 [
-    {
-      "title": "All-in-One Bazaar",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made for the user to interact with the shopping cart and for a smooth online shopping experience.",
-      "skills": ["React", "Typescript", "Node"],
-      "demo": "https://idyllic-sherbet-f7c7c6.netlify.app/",
-      "source": "https://github.com/MenatallaGomaa/Shopping-Cart"
-    },
+    
     {
       "title": "CoTrack",
       "imageSrc": "projects/project.png",
@@ -22,5 +15,13 @@
       "skills": ["React", "Express", "Node"],
       "demo": "https://main--golden-salamander-91a490.netlify.app/",
       "source": "https://github.com/ArtTera"
+    },
+    {
+      "title": "All-in-One Bazaar",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made for the user to interact with the shopping cart and for a smooth online shopping experience.",
+      "skills": ["React", "Typescript", "Node"],
+      "demo": "hhttps://allinonebazaar.netlify.app",
+      "source": "https://github.com/MenatallaGomaa/Shopping-Cart"
     }
   ]

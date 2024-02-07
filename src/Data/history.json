@@ -4,7 +4,7 @@
       "organisation": "Ironhack",
       "startDate": "Oct, 2023",
       "endDate": "Dec, 2023",
-      "experiences": ["I honed skills in frontend technologies like HTML, CSS, and JavaScript ES6", "On the backend, I mastered ExpressJS, NodeJS, and MongoDB for server-side development, using Axios for data communication","For version control, I utilized Git and GitHub"],
+      "experiences": ["I honed skills in frontend technologies like HTML, CSS, and JavaScript ES6, developing dynamic and responsive user interfaces", "On the backend, I mastered ExpressJS, NodeJS, and MongoDB for server-side development, using Axios for data communication","Additionally, I gained expertise in debugging, TypeScript, JSON, JWT for secure data transmission, Object-Oriented Programming (OOP), and the MERN stack (MongoDB, Express.js, React.js, Node.js)","I ensured responsive web design, worked with APIs, and tested using Postman","For version control, I utilized Git and GitHub"],
       "imageSrc": "history/Ironhack.jpeg"
     },
     {
@@ -12,7 +12,14 @@
       "organisation": "SoftwareOne",
       "startDate": "Apr, 2023",
       "endDate": "Sept, 2023",
-      "experiences": ["A key aspect of my responsibilities involves utilizing ERP systems, particularly Microsoft Dynamics NAV", "I worked with ServiceNow as a platform for managing tickets"],
-      "imageSrc": "history/SoftwareOne.jpeg"
+      "experiences": [
+        "Collaborated with the sales team in Sales Coordination, optimizing order processing, quote generation, and documentation management",
+        "Utilized ERP systems, including Microsoft Dynamics NAV, to streamline workflows and enhance operational efficiency",
+        "Worked extensively with ServiceNow for ticket management, contributing to efficient issue resolution and interdepartmental communication","Applied problem-solving skills to efficiently resolve issues, a valuable trait in web development for debugging and troubleshooting",
+        "Collaborated effectively with cross-functional teams, demonstrating strong communication skills – essential for teamwork in web development projects",
+        "Acquired data management skills applicable to organizing and maintaining data in web applications",
+        "Developed administrative efficiency in organizing tasks and schedules, which can be translated into effective project management in web development"
+      ],
+          "imageSrc": "history/SoftwareOne.jpeg"
     }
   ]
