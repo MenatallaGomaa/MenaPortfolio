@@ -4,6 +4,7 @@
       "title": "Homyz",
       "imageSrc": "projects/project.png",
       "description": "Explore our user-friendly real estate website to discover a diverse range of properties, from cozy apartments to spacious family homes, tailored to meet your unique lifestyle needs.",
+      "skills": ["React", "Javascript", "CSS"],
       "demo": "https://main--homyzrealestatewebsie.netlify.app/",
       "source": "https://github.com/MenatallaGomaa/RealEstateWebsite"
     },
