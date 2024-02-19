@@ -9,12 +9,12 @@
       "source": "https://github.com/MenatallaGomaa/RealEstateWebsite"
     },
     {
-      "title": "ArtTera",
+      "title": "DriveEase",
       "imageSrc": "projects/project.png",
-      "description": "An online gallery that connects civlizations together to take you in an awesome journey where the old and the new art meets.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://main--golden-salamander-91a490.netlify.app/",
-      "source": "https://github.com/ArtTera"
+      "description": "A car rental web application that allows users to easily find and rent cars for their travel needs. It provides a user-friendly interface for browsing available cars.",
+      "skills": ["React", "Tailwind CSS", "Node"],
+      "demo": "https://main--driveease.netlify.app/",
+      "source": "https://github.com/MenatallaGomaa/DriveEase"
     },
     {
       "title": "All-in-One Bazaar",
