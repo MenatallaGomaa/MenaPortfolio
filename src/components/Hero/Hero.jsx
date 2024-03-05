@@ -13,7 +13,7 @@ export const Hero = () => {
           through an intensive 9-week bootcamp with Ironhack.{" "}
           <p>Reach out if you'd like to learn more!</p>
         </p>
-        <a href="minafathi98@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:minafathi98@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
