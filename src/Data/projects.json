@@ -2,7 +2,7 @@
     
     {
       "title": "Homyz",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/Homyz.png",
       "description": "Explore our user-friendly real estate website to discover a diverse range of properties, from cozy apartments to spacious family homes, tailored to meet your unique lifestyle needs.",
       "skills": ["React", "Javascript", "CSS"],
       "demo": "https://main--homyzrealestatewebsie.netlify.app/",
@@ -10,7 +10,7 @@
     },
     {
       "title": "DriveEase",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/DriveEase.png",
       "description": "A car rental web application that allows users to easily find and rent cars for their travel needs. It provides a user-friendly interface for browsing available cars.",
       "skills": ["React", "Tailwind CSS", "Node"],
       "demo": "https://main--driveease.netlify.app/",
